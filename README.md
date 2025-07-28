@@ -1,6 +1,7 @@
 # codsoft_task1
+# Number Guessing Game
 🎯 Number Guessing Game
-A simple command-line game where the user tries to guess a randomly generated number within a specified range. The game includes attempt limits, multiple rounds, and a scoring system for added fun and challenge!
+A simple command-line game in java where the user tries to guess a randomly generated number within a specified range. The game includes attempt limits, multiple rounds, and a scoring system for added fun and challenge!
 
 🧩 Features
 Random number generation within a customizable range (default: 1 to 100)
